@@ -138,6 +138,11 @@ a:hover {
     border-bottom: 4px solid transparent;
 }
 
+.codrops-demos h3 {
+    display: inline;
+    
+}
+
 .codrops-demos a:hover {
 	color: #000;
 	border-color: #000;
