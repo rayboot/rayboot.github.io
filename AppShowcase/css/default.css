@@ -129,20 +129,6 @@ a:hover {
 	padding-top: 1em;
 }
 
-.codrops-demos a {
-    display: inline-block;
-    margin: 1em;
-    line-height: 2;
-    color: #666;
-    font-weight: 700;
-    border-bottom: 4px solid transparent;
-}
-
-.codrops-demos h3 {
-    display: inline;
-    
-}
-
 .codrops-demos a:hover {
 	color: #000;
 	border-color: #000;
